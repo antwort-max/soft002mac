@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React con Max
-          
+          Learn React con Maximiliano Lopez
+
         </a>
       </header>
     </div>
